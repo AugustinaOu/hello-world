@@ -1,3 +1,3 @@
 # hello-world
 
-Hi!
+Hi! I want to create something interesting!
